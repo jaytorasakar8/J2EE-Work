@@ -1,0 +1,12 @@
+1. Copy the jar files to lib folder of your tomcat installation
+
+2. enter the info of your email in EmailUtility Class. For email server names of gmail, login to gmail, setings-> accounts
+
+3. Create DB 
+
+4. Paste the codes. 
+
+
+GOOD LUCK 
+
+If you get any error, you should be able to solve it by now. 
